@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "PandaPrepares.aternos.me",
+    "port": 44583,
+    "version": "1.20.11",
     "try-creative": false
   },
   "position": {
